@@ -1,3 +1,4 @@
+#example for using try, except and if statement
 try:
     num = int(input("put your random number"))
 except:
