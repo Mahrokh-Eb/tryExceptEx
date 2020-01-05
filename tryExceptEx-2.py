@@ -1,3 +1,4 @@
+#example for using try, except and finally
 try:
     print(x)
 except:
